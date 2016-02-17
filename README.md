@@ -9,3 +9,5 @@ Irene's favorite candy: skittles
 
 Joy's favorite candy: everything
 
+Sam's favorite candy: skittles
+
