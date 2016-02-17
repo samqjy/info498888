@@ -12,4 +12,10 @@ Joy's favorite candy: everything
 
 Sam's favorite candy: skittles
 
+<<<<<<< HEAD
 
+=======
+**I am so hungry**
+
+My second favorite candy is hi-chew！
+>>>>>>> second fav
