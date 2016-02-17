@@ -5,5 +5,5 @@
 
 so much stuff
 
-Irene's favorite candy: toffifee
+Irene's favorite candy: skittles
 
