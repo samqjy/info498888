@@ -12,6 +12,4 @@ Joy's favorite candy: everything
 
 Sam's favorite candy: skittles
 
-=======
-Snikers
 
