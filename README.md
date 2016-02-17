@@ -5,6 +5,7 @@
 
 so much stuff
 
-Irene's favorite candy: skittles
- Joy's favorite candy: everything
+Irene's favorite candy: skittles   
+
+Joy's favorite candy: everything
 
